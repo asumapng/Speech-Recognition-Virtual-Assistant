@@ -8,3 +8,5 @@ The functions mango can do are:
 4. Tell you a joke 
 5. Tell you the time
 
+language-code.csv is the file to of list of languages and code used by google. 
+It can be used for including the function of translation in the Virtual Assistant. 
