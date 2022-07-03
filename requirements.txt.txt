@@ -1,0 +1,9 @@
+speech_recognition
+pyttsx3 
+pywhatkit
+datetime
+webbrowser
+google_trans_new
+pandas
+pyjokes
+wikipedia
