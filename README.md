@@ -1,6 +1,6 @@
 # Speech-Recognition-Virtual-Assistant
 
-###Mango is a simple Virtual Assisant that can do the following tasks:
+### Mango is a simple Virtual Assisant that can do the following tasks:
 1. Tell you time 
 2. Play you a song from youtube
 3. Tell you a programming joke
